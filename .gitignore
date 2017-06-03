@@ -1,0 +1,15 @@
+.idea
+node_modules
+link-checker-results.txt
+**/*npm-debug.log.*
+*.js
+*.js.map
+_test-output
+_temp
+
+!**/*e2e-spec.js
+!karma*.js
+!wallaby.js
+!utility/**/*.js
+aot
+dist
